@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/Application.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/EmailService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/EmailServiceBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/GreetingService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/GreetingServiceBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/batch/GreetingBatchBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/health/GreetingHealthIndicator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/model/Greeting.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/repository/GreetingRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/util/AsyncResponse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/web/DefaultExceptionAttributes.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/web/ExceptionAttributes.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/web/api/BaseController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/microservices/taxi/web/api/GreetingController.java" charset="UTF-8" />
+  </component>
+</project>
